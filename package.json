@@ -1,0 +1,25 @@
+{
+  "name": "npm_hw_spichak",
+  "version": "1.0.0",
+  "description": "test hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sum",
+    "sub",
+    "multi"
+  ],
+  "author": "viktoria spichak",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^2.8.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
